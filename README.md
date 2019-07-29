@@ -1,4 +1,4 @@
-# sanba-server-centos
+# samba-server-centos
 
 
 ## Install samba package using yum :
